@@ -12,7 +12,7 @@
     "compass": "latest",
     "coffee-script": "latest"
   },
-  "author": "PopSugar",
+  "author": "neugartf",
   "license": "MIT",
   "readmeFilename": "README.md",
   "ignore": ["*",
