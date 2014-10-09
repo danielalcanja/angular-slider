@@ -5,7 +5,7 @@
   "main": "slider.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PopSugar/angular-slider.git"
+    "url": "https://github.com/neugartf/angular-slider.git"
   },
   "keywords": [
     "angular",
@@ -14,7 +14,7 @@
   "devDependencies": {
     "coffee-script": "latest"
   },
-  "author": "POPSUGAR",
+  "author": "neugartf",
   "license": "MIT",
   "readmeFilename": "README.md"
 }
